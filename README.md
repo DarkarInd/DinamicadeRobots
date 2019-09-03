@@ -1,7 +1,7 @@
 # Carrillo.Ochoa.Ali.Farid
 
-CINEMÁTICA DE ROBOTS
+Dinamica y Control de Robots
 
-<br>Ingenería Mecatrónica - Septimo Cuatrimestre
+<br>Ingenería Mecatrónica - Noveno Cuatrimestre
 <br>Universidad Politécnica de la Zona Metropolitana de Guadalajara
 
